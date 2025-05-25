@@ -12,7 +12,7 @@ This project solves the challenge of predicting healthcare costs using a feedfor
 ```bash
 📦 training_models/
 ├── p_h_c_w_lr.ipynb   # The main Jupyter notebook
-└── README.md                    # Project description
+└── README.md          # Project description
 ```
 
 ## 📌 Note
